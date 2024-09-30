@@ -23,9 +23,9 @@ cd sentiment-polarity-classification-bert
 ```
 To install dataset use this links:
 ```
-https://www.cs.cornell.edu/people/pabo/movie-review-data/rt-polaritydata.tar.gz.
+https://www.cs.cornell.edu/people/pabo/movie-review-data/rt-polaritydata.tar.gz
 ```
 keep the dataset in the same directory as classifier, then run
 ```
-python sentiment-clasiifier.py
+python sentiment-classifier.py
 ```
